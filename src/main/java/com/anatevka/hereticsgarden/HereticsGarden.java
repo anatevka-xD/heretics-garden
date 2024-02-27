@@ -11,7 +11,7 @@ public class HereticsGarden implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		// Very important comment
 		LOGGER.info("Hello Fabric world!");
 	}
 }
